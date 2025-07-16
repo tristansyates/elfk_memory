@@ -1,0 +1,8 @@
+{
+    "bold": {
+        "datatype": "func",
+        "suffix": "bold",
+	"session": null,
+        "task": ["memory","rest"]
+    }
+}
